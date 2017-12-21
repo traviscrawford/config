@@ -1,0 +1,4 @@
+[caps]>[escape]
+[up]>[down]
+[down]>[up]
+[lctrl]>[rwin]
