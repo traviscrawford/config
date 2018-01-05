@@ -1,6 +1,4 @@
 [caps]>[escape]
-[up]>[down]
-[down]>[up]
 [scroll]>[shutdn]
 [kp=]>[kp=mac]
 [lctrl]>[lwin]
@@ -9,6 +7,16 @@
 [kp-rctrl]>[kp-rwin]
 [rwin]>[rctrl]
 [kp-rwin]>[kp-rctrl]
+
+[delete]>[kpshift]
+[kp-delete]>[kpshift]
+
+[up]>[down]
+[down]>[up]
+[kp-h]>[left]
+[kp4]>[down]
+[kp5]>[up]
+[kp6]>[right]
 
 ********************************
 * IntelliJ keypad layer macros *
