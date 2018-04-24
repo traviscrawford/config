@@ -18,10 +18,3 @@
 [kp5]>[up]
 [kp6]>[right]
 
-********************************
-* IntelliJ keypad layer macros *
-********************************
-
-* Code View Actions - Expression Type
-{kpmin}>{-kp-rctrl}{-kp-lshift}{p}{+kp-lshift}{+kp-rctrl}
-
