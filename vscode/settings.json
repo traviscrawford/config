@@ -1,0 +1,13 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "editor.fontFamily": "'Jetbrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    "editor.guides.bracketPairs": "active",
+    "hack.useHhast": false,
+    "files.exclude": {
+        "**/*.hhast.parser-cache": true
+    }
+}
